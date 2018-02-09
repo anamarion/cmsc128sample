@@ -1,4 +1,9 @@
 Ana Marion
 Hey Marion Hi hih hi hih hi
+<<<<<<< HEAD
 anjelle
 pangalan
+=======
+Anjell 
+Moesha
+>>>>>>> c52a150e89e0597a037960c86d1260b96b0e5177
